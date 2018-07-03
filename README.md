@@ -18,3 +18,6 @@
  
  Source: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap#-devops-roadmap)
  
+# Books And Videos
+ 
+ - [Books For DevOps](https://medium.com/devopslinks/10-great-books-for-aspiring-devops-sre-engineers-76536c7c4909)
