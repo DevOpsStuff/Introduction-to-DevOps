@@ -18,6 +18,11 @@
  
  Source: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap#-devops-roadmap)
  
+ 
+# Twelve Factor Application
+ 
+ - [12actorApp](https://github.com/DevOpsStuff/Introduction-to-DevOps/blob/master/12factorApp.md)
+ 
 # Books And Videos
  
  - [Books For DevOps](https://medium.com/devopslinks/10-great-books-for-aspiring-devops-sre-engineers-76536c7c4909)
