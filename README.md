@@ -18,6 +18,9 @@
  
  Source: [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap#-devops-roadmap)
  
+# CLI Tools
+
+ - [Must have CLI Tools](https://github.com/DevOpsStuff/Introduction-to-DevOps/blob/master/DefaultToolsYouShouldHave.md)
  
 # Twelve Factor Application
  
