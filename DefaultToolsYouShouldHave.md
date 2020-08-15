@@ -107,7 +107,7 @@ It can be used in several ways: from the web by pasting your shell script in an 
 
 * macOS
 
-   brew install shellcheck
+      brew install shellcheck
 
 # jq
 
