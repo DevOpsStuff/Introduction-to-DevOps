@@ -46,7 +46,7 @@ Now you will see a file, `Vagrant` file. A new ubuntu/Trusty file has been initi
 
 ```
 Vagrant up  
-``
+```
 The Above command, will start the fresh new Environment. This may take time, because it has to download the ubuntu image from the vagrant Cloud and install the Ubuntu on your
 local machine.
 
@@ -96,7 +96,7 @@ Last login: Thu Jul  1 18:03:14 2021 from 10.0.2.2
 vagrant@vagrant-ubuntu-trusty-64:~$ 
 vagrant@vagrant-ubuntu-trusty-64:~$ cat /etc/issue
 Ubuntu 14.04.6 LTS \n \l
-``
+```
 
 The above command will ssh in to the newly created ubuntu machine.
 
