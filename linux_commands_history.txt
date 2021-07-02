@@ -1,0 +1,109 @@
+root@vagrant-ubuntu-trusty-64:~# history
+    1  cd
+    2  ls
+    3  # deb or #rpm
+    4  # deb(Ubuntu/Debian) or #rpm(Red Hat/ Centos/ Fedora)
+    5  lsb_release
+    6  lsb_release -a
+    7  man deb
+    8  wget -O vagrant https://releases.hashicorp.com/vagrant/2.2.16/vagrant_2.2.16_x86_64.deb
+    9  ls
+   10  wget https://releases.hashicorp.com/vagrant/2.2.16/vagrant_2.2.16_x86_64.deb
+   11  ls
+   12  dpkg -i vagrant_2.2.16_x86_64.deb
+   13  wget https://releases.hashicorp.com/vagrant/2.2.16/vagrant_2.2.16_x86_64.rpm
+   14  ls
+   15  dpkg -i vagrant_2.2.16_x86_64.rpm
+   16  clear
+   17  cd /etc/apt/sources.list
+   18  cat /etc/apt/sources.list
+   19  apt update
+   20  clear
+   21  apt search nginx
+   22  apt search java
+   23  apt search jdk
+   24  clear
+   25  cd /etc/nginx
+   26  cd /etc
+   27  ls
+   28  cd
+   29  clear
+   30  apt install nginx
+   31  clear
+   32  cd /etc
+   33  ls
+   34  cd rc5.d
+   35  ls
+   36  cd
+   37  clear
+   38  init 5
+   39  chkconfig
+   40  apt install chkconfig
+   41  update-rc.d
+   42  update-rc
+   43  update-rc.d list
+   44  update-rc.d defaults
+   45  update-rc.d nginx
+   46  update-rc.d nginx defaults
+   47  clear
+   48  apt install sysv-rc-conf
+   49  sysv-rc-conf
+   50  sysv-rc-conf --list
+   51  clear
+   52  ls
+   53  rm -rf vagrant_2.2.16_x86_64.rpm vagrant_2.2.16_x86_64.deb
+   54  ls
+   55  touch file1
+   56  ls
+   57  ls -lrth
+   58  pwd
+   59  mkdir nagaraj
+   60  ls
+   61  cp file1  nagaraj/
+   62  ls
+   63  ls nagaraj/
+   64  mv nagaraj/
+   65  mv -f nagaraj/
+   66  ls
+   67  mkdir -p a/b/c/d/ -p e/f/g
+   68  ls
+   69  tree
+   70  apt-get install tree
+   71  tree
+   72  ls
+   73  rm -rf a
+   74  ls
+   75  rm -rf e
+   76  ls
+   77  rm -rf file1
+   78  ls
+   79  rm -rf vagrant
+   80  ls
+   81  touch -r
+   82  touch "-r"
+   83  touch -a
+   84  touch \-a
+   85  echo "sample file" >> -r
+   86  ls
+   87  echo "sample file"
+   88  cat -r
+   89  clear
+   90  ls
+   91  cat -- -r
+   92  ls
+   93  rm -rf "-r"
+   94  ls
+   95  rm -rf \-r
+   96  ls
+   97  rm -- -rf -r
+   98  rm --  -r
+   99  rm -- -r
+  100  ls
+  101  clear
+  102  cat /etc/passwd
+  103  pwd
+  104  su ubuntu
+  105  exit
+  106  cd
+  107  history
+root@vagrant-ubuntu-trusty-64:~#
